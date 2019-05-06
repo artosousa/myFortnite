@@ -1,4 +1,5 @@
 import React, {Component, Fragment} from 'react';
+
 import './player-data.css';
 
 export default class PlayerData extends Component {

@@ -5,9 +5,11 @@
   "version": "0.1.0",
   "author": "Arthur Sousa <artosousa@gmail.com>",
   "dependencies": {
+    "@material-ui/styles": "^4.0.0-beta.1",
     "gatsby": "^2.4.2",
     "gatsby-image": "^2.0.41",
     "gatsby-plugin-manifest": "^2.1.1",
+    "gatsby-plugin-material-ui": "^2.0.0-beta.0",
     "gatsby-plugin-offline": "^2.1.0",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sharp": "^2.0.36",
@@ -19,6 +21,8 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
     "prettier": "^1.17.0"
   },
   "keywords": [
