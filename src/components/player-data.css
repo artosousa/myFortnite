@@ -1,0 +1,28 @@
+div.stat-card{
+    width: calc(33% - 20px);
+    position: relative;
+    float: left;
+}
+
+button#user-submit{
+    width: 50%;
+    font-size: 2.5em;
+    color: #000;
+    background-color: #ff0;
+    border: none;
+    padding: 0.5em 2em 0.3em 2em;
+    text-decoration: none;
+    -webkit-transition: background-color .3s ease;
+    -o-transition: background-color .3s ease;
+    transition: background-color .3s ease;
+    cursor: pointer;
+    position: relative;
+    margin: 20px 25%;
+}
+input#epic-username{
+    font-size: 4em;
+    width: 100%;
+    padding: 0.25em .25em ;
+    background: none;
+    background: #fff;
+}
